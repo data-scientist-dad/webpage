@@ -7,3 +7,15 @@ site: bookdown::bookdown_site
 
 ### I Build Data Analytics Models.
 
+
+<!--chapter:end:index.Rmd-->
+
+# The pool of tears
+
+
+<!--chapter:end:02-tears.Rmd-->
+
+# A caucus-race and a long tail
+
+<!--chapter:end:03-race.Rmd-->
+
